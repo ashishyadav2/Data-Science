@@ -161,3 +161,5 @@ cython_debug/
 
 *.csv
 The-Grand-Complete-Data-Science-Materials/
+*.zip
+*.pdf
